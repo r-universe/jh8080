@@ -3,3 +3,28 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
+[submodule "BootPR"]
+	path = BootPR
+	url = https://github.com/cran/BootPR
+	shallow = true
+	registered = true
+[submodule "GRS.test"]
+	path = GRS.test
+	url = https://github.com/cran/GRS.test
+	shallow = true
+	registered = true
+[submodule "OptSig"]
+	path = OptSig
+	url = https://github.com/cran/OptSig
+	shallow = true
+	registered = true
+[submodule "VAR.etp"]
+	path = VAR.etp
+	url = https://github.com/cran/VAR.etp
+	shallow = true
+	registered = true
+[submodule "vrtest"]
+	path = vrtest
+	url = https://github.com/cran/vrtest
+	shallow = true
+	registered = true
